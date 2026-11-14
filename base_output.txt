@@ -1,0 +1,6 @@
+﻿Directory of the ACR DICOM files: Dataset01/
+         Spoke1 Spoke2 Spoke3 Spoke4 Spoke5 Spoke6 Spoke7 Spoke8 Spoke9 Spoke10
+Slice 11   Pass   Pass   Pass   Pass   Pass   Pass   Pass   Pass   Pass    Pass
+Slice 10   Pass   Pass   Pass   Pass   Pass   Pass   Pass   Pass   Pass    Pass
+Slice 9    Pass   Pass   Pass   Pass   Pass   Pass   Pass   Pass   Fail    Fail
+Slice 8    Pass   Pass   Pass   Pass   Pass   Pass   Fail   Fail   Fail    Fail
